@@ -12,7 +12,7 @@ este código controla a física do projétil e detecta colisões com outros obje
 ![image](https://github.com/MatheusSeabra/rayquest/assets/101134295/e02c151c-a0bc-4f61-b0b5-9a94ce44092f)<br>
 ![image](https://github.com/MatheusSeabra/rayquest/assets/101134295/024e9ab6-c9ea-4069-a53c-bd5f6c8ae5c9)
 ![image](https://github.com/MatheusSeabra/rayquest/assets/101134295/29324553-d767-41af-a2fb-b0cd80f6fe1d)
-![image](https://github.com/MatheusSeabra/rayquest/assets/101134295/ad587006-5054-47fc-a0c9-9b72a99db35f)
+![image](https://github.com/MatheusSeabra/rayquest/assets/101134295/ad587006-5054-47fc-a0c9-9b72a99db35f)<br>
 esse código roda uma câmera na perspectiva de primeira pessoa, permitindo que o jogador olhe em diferentes direções ao mover o mouse. Os movimentos da câmera são suavizados para evitar movimentos bruscos.<br>
 ==============================================================================================================================<br>
 ### Gun<br>
