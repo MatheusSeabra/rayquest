@@ -46,3 +46,6 @@ responsável pelo movimento de algum objeto que representa uma "casca" de algum 
 Este código define uma classe Tin que herda da classe MonoBehaviour e implementa a interface IShotHit.<br>
 
 Nesse trabalho inteiro aprendemos alguns scripts significativos para quando formos fazer nosso tcc utilizarmos e ser bem útil
+
+![Screenshot 2024-03-29 121403](https://github.com/MatheusSeabra/rayquest/assets/101134295/db8f4563-d9db-4b6e-8175-642e0b5e9ac8)<br>
+![image](https://github.com/MatheusSeabra/rayquest/assets/101134295/20c60379-b667-412f-8f45-620b7dddf537)<br>
