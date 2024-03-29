@@ -48,4 +48,6 @@ Este código define uma classe Tin que herda da classe MonoBehaviour e implement
 Nesse trabalho inteiro aprendemos alguns scripts significativos para quando formos fazer nosso tcc utilizarmos e ser bem útil
 
 ![Screenshot 2024-03-29 121403](https://github.com/MatheusSeabra/rayquest/assets/101134295/db8f4563-d9db-4b6e-8175-642e0b5e9ac8)<br>
+Pistola de BANANA, pegamos esse object dos assents do unity para demonstrar o raycast. <br>
 ![image](https://github.com/MatheusSeabra/rayquest/assets/101134295/20c60379-b667-412f-8f45-620b7dddf537)<br>
+Cenario ( atiro ao alvo ), pegamos esses objects dos assents do unity para demonstrar o funcionamento do raycast.
